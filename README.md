@@ -1,1 +1,1 @@
-the metallic crane is a project. this project is intended for real time use
+the metallic crane is a project.
